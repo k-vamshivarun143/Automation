@@ -1,0 +1,64 @@
+2022-11-08 17:11:334 INFO  TestBase:128 - session not created: This version of ChromeDriver only supports Chrome version 83
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'kulakarnis-Air', ip: 'fd01:0:0:0:7:f8b3:3c75:aaf5%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x00000001044a21b9 chromedriver + 4805049
+1   chromedriver                        0x000000010443d453 chromedriver + 4392019
+2   chromedriver                        0x00000001040c948d chromedriver + 771213
+3   chromedriver                        0x0000000104026849 chromedriver + 104521
+4   chromedriver                        0x0000000104022b00 chromedriver + 88832
+5   chromedriver                        0x000000010401fe59 chromedriver + 77401
+6   chromedriver                        0x0000000104052163 chromedriver + 282979
+7   chromedriver                        0x000000010404ef63 chromedriver + 270179
+8   chromedriver                        0x0000000104028a9d chromedriver + 113309
+9   chromedriver                        0x0000000104029a35 chromedriver + 117301
+10  chromedriver                        0x00000001044652bf chromedriver + 4555455
+11  chromedriver                        0x0000000104471a9a chromedriver + 4606618
+12  chromedriver                        0x0000000104471829 chromedriver + 4605993
+13  chromedriver                        0x0000000104449159 chromedriver + 4440409
+14  chromedriver                        0x0000000104472023 chromedriver + 4608035
+15  chromedriver                        0x000000010445aec3 chromedriver + 4513475
+16  chromedriver                        0x0000000104488774 chromedriver + 4700020
+17  chromedriver                        0x00000001044a8277 chromedriver + 4829815
+18  libsystem_pthread.dylib             0x00007ff81ea254e1 _pthread_start + 125
+19  libsystem_pthread.dylib             0x00007ff81ea20f6b thread_start + 15
+
+2022-11-08 17:11:860 INFO  TestBase:128 - session not created: This version of ChromeDriver only supports Chrome version 83
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'kulakarnis-Air', ip: 'fd01:0:0:0:7:f8b3:3c75:aaf5%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '17.0.1'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000102f981b9 chromedriver + 4805049
+1   chromedriver                        0x0000000102f33453 chromedriver + 4392019
+2   chromedriver                        0x0000000102bbf48d chromedriver + 771213
+3   chromedriver                        0x0000000102b1c849 chromedriver + 104521
+4   chromedriver                        0x0000000102b18b00 chromedriver + 88832
+5   chromedriver                        0x0000000102b15e59 chromedriver + 77401
+6   chromedriver                        0x0000000102b48163 chromedriver + 282979
+7   chromedriver                        0x0000000102b44f63 chromedriver + 270179
+8   chromedriver                        0x0000000102b1ea9d chromedriver + 113309
+9   chromedriver                        0x0000000102b1fa35 chromedriver + 117301
+10  chromedriver                        0x0000000102f5b2bf chromedriver + 4555455
+11  chromedriver                        0x0000000102f67a9a chromedriver + 4606618
+12  chromedriver                        0x0000000102f67829 chromedriver + 4605993
+13  chromedriver                        0x0000000102f3f159 chromedriver + 4440409
+14  chromedriver                        0x0000000102f68023 chromedriver + 4608035
+15  chromedriver                        0x0000000102f50ec3 chromedriver + 4513475
+16  chromedriver                        0x0000000102f7e774 chromedriver + 4700020
+17  chromedriver                        0x0000000102f9e277 chromedriver + 4829815
+18  libsystem_pthread.dylib             0x00007ff81ea254e1 _pthread_start + 125
+19  libsystem_pthread.dylib             0x00007ff81ea20f6b thread_start + 15
+
+2022-11-08 20:11:167 INFO  TestBase:135 - Initialize Web driver: 1911600942
+2022-11-08 20:11:175 INFO  WaitHelper:31 - WaitHelper object created..
+2022-11-08 20:11:177 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2022-11-08 20:11:195 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2022-11-08 20:11:210 INFO  WaitHelper:146 - page is loaded
+2022-11-08 20:11:673 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2022-11-08 20:11:50 INFO  WaitHelper:31 - WaitHelper object created..
+2022-11-08 20:11:494 INFO  TestBase:135 - Initialize Web driver: 1491676195
+2022-11-08 20:11:505 INFO  WaitHelper:31 - WaitHelper object created..
+2022-11-08 20:11:522 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2022-11-08 20:11:557 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2022-11-08 20:11:569 INFO  WaitHelper:146 - page is loaded
+2022-11-08 20:11:713 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2022-11-08 20:11:136 INFO  WaitHelper:31 - WaitHelper object created..
